@@ -11,5 +11,31 @@
         "hash": "397d4221397d4221397d4221397d4221",
         "created_at": "2026-05-03T18:17:11.622Z",
         "updated_at": "2026-05-03T18:17:11.622Z"
+    },
+    {
+        "id": "gt5bbAQTn-fj4XLIf4RA9HwfYpac1-o1",
+        "plugin": "obsidian-style-settings",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.0.9",
+        "title": "Style Settings",
+        "description": "提供用于调整主题、插件和代码段CSS变量的控件。",
+        "hash": "0dbd31070dbd31070dbd31070dbd3107",
+        "created_at": "2026-05-06T14:23:52.489Z",
+        "updated_at": "2026-05-06T14:23:52.489Z"
+    },
+    {
+        "id": "Unevw7Vz0ylav7BcIuoo8vasS28iRP51",
+        "plugin": "pexels-banner",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.6.18",
+        "title": "Pixel Banner",
+        "description": "Pixel Banner Localization & Tweaks",
+        "hash": "69bbefac69bbefac69bbefac69bbefac",
+        "created_at": "2026-05-06T14:23:52.492Z",
+        "updated_at": "2026-05-06T14:23:52.492Z"
     }
 ]
